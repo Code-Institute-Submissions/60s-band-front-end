@@ -1,0 +1,21 @@
+nav {
+    background-color: lightgrey;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    display: inline;
+}
+
+footer {
+    background-color: darkgrey;
+    min-height: 30px;
+}
+
+.monkees-logo {
+    height: 70px;
+    background-color: lightgrey;
+}

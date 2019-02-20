@@ -4,10 +4,21 @@ nav {
 
 li {
     display: inline;
+    color: #d30101; /*same color as the image text */
+    border: 1px dashed blue;
+    font-size: 2em;
+    margin-right: 20px;
 }
 
 ul {
-    display: inline;
+    /*display: flex;
+    justify-content: space-around;*/
+    border: 1px dotted green;
+    align-items: center;
+}
+
+section {
+    background-color: slategrey;
 }
 
 footer {
@@ -18,4 +29,5 @@ footer {
 .monkees-logo {
     height: 70px;
     background-color: lightgrey;
+    mix-blend-mode: multiply; /* eliminates the white background in the image */
 }

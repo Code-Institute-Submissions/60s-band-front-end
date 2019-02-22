@@ -1,20 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Skranji|Spicy+Rice');
+
 nav {
     background-color: lightgrey;
 }
 
-li {
-    display: inline;
-    color: #d30101; /*same color as the image text */
-    border: 1px dashed blue;
+.mk-navitem {
+    font-family: 'Spicy Rice', cursive;
     font-size: 2em;
-    margin-right: 20px;
+    text-align: center;
+    text-transform: uppercase;
 }
 
-ul {
-    /*display: flex;
-    justify-content: space-around;*/
-    border: 1px dotted green;
-    align-items: center;
+.mk-navbar {
+    width: 100%;
+}
+
+.mk-navlink {
+    color: #d30101; /*same color as the image text */
+}
+
+.mk-navlink:hover {
+    text-decoration: none;
+}
+
+.logo-link {
+    display: flex;
+    justify-content: center;
 }
 
 section {
@@ -27,7 +38,8 @@ footer {
 }
 
 .monkees-logo {
-    height: 70px;
+    
+    height: 100px;
     background-color: lightgrey;
     mix-blend-mode: multiply; /* eliminates the white background in the image */
 }

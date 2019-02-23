@@ -28,10 +28,15 @@ nav {
     justify-content: center;
 }
 
-i {
+.social-media-icon {
     margin: 20px;
     color: white;
     background-color: black;
+    border-radius: 50%;
+    width: 1.7em;
+    height: 1.7em;
+    line-height: 1.7em;
+    text-align: center;
 }
 
 section {

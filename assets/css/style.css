@@ -28,6 +28,12 @@ nav {
     justify-content: center;
 }
 
+i {
+    margin: 20px;
+    color: white;
+    background-color: black;
+}
+
 section {
     background-color: slategrey;
 }

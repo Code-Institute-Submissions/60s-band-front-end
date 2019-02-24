@@ -20,11 +20,23 @@ nav {
 }
 
 .mk-navbar {
+    display: flex;
+    flex-wrap: wrap;
+    /* will change to row at media breakpoints */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 100%;
 }
 
+.mk-navbar-div {
+    /* fix for colour not stretching the full width of the container */
+    padding: 0;
+}
+
 .mk-navlink {
-    color: #d30101; /*same color as the image text */
+    color: #d30101;
+    /*same color as the logo image */
 }
 
 .mk-navlink:hover {
@@ -39,12 +51,28 @@ nav {
 .social-media-icon {
     margin: 20px;
     color: white;
-    background-color: black;
+    background-color: #d30101;
     border-radius: 50%;
     width: 1.7em;
     height: 1.7em;
     line-height: 1.7em;
     text-align: center;
+}
+
+.social-media-icon:hover {
+    color: #d30101;
+}
+
+.facebook-icon {
+    background-color: #4267B2;
+}
+
+.twitter-icon {
+    background-color: #00ACEE;
+}
+
+.youtube-icon {
+    background-color: #ED3833;
 }
 
 section {
@@ -57,8 +85,27 @@ footer {
 }
 
 .monkees-logo {
-    
+
     height: 100px;
     background-color: lightgrey;
-    mix-blend-mode: multiply; /* eliminates the white background in the image */
+    mix-blend-mode: multiply;
+    /* eliminates the white background in the image */
+}
+
+@media (min-width: 767px) {
+    .mk-navitem {
+        display: inline-block;
+        width: 50%;
+    }
+
+    .mk-navbar {
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 992px) {
+    
+    .mk-navitem {
+        width: 25%
+    }
 }

@@ -11,6 +11,14 @@ nav {
     text-transform: uppercase;
 }
 
+.mk-navlink:hover {
+    color: lightgrey;
+}
+
+.mk-navitem:hover {
+    background-color: #d30101;
+}
+
 .mk-navbar {
     width: 100%;
 }

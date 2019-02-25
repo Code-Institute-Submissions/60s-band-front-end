@@ -9,11 +9,11 @@ nav {
     font-size: 2em;
     text-align: center;
     text-transform: uppercase;
+    display: inline-block;
+    width: 100%;
 }
 
-.mk-navlink:hover {
-    color: lightgrey;
-}
+
 
 .mk-navitem:hover {
     background-color: #d30101;
@@ -27,6 +27,8 @@ nav {
     align-items: center;
     justify-content: center;
     width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 .mk-navbar-div {
@@ -36,9 +38,13 @@ nav {
 
 .mk-navlink {
     color: #d30101;
+    display: inherit;
     /*same color as the logo image */
 }
 
+.mk-navlink:hover {
+    color: lightgrey;
+}
 .mk-navlink:hover {
     text-decoration: none;
 }
@@ -94,7 +100,7 @@ footer {
 
 @media (min-width: 767px) {
     .mk-navitem {
-        display: inline-block;
+        
         width: 50%;
     }
 

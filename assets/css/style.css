@@ -35,8 +35,8 @@ nav {
     /* fix for colour not stretching the full width of the container */
     padding: 0;
     display: flex;
-    
-    
+
+
 }
 
 .mk-navlink {
@@ -48,6 +48,7 @@ nav {
 .mk-navlink:hover {
     color: lightgrey;
 }
+
 .mk-navlink:hover {
     text-decoration: none;
 }
@@ -69,7 +70,8 @@ nav {
 }
 
 .social-media-icon:hover {
-    color: #d30101;
+
+    border: 1px black solid;
 }
 
 .facebook-icon {
@@ -106,7 +108,7 @@ footer {
         height: 50%;
         width: 50%;
     }
-    
+
     .mk-navlink {
         height: 100%;
     }
@@ -117,13 +119,13 @@ footer {
 }
 
 @media (min-width: 992px) {
-    
+
     .mk-navitem {
         width: 25%;
         height: 100%;
         font-size: 2.5em;
     }
-    
+
     .mk-navlink {
         height: 100%;
         /* centres the link vertically */

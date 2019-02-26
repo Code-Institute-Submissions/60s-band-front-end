@@ -34,6 +34,9 @@ nav {
 .mk-navbar-div {
     /* fix for colour not stretching the full width of the container */
     padding: 0;
+    display: flex;
+    
+    
 }
 
 .mk-navlink {
@@ -100,8 +103,12 @@ footer {
 
 @media (min-width: 767px) {
     .mk-navitem {
-        
+        height: 50%;
         width: 50%;
+    }
+    
+    .mk-navlink {
+        height: 100%;
     }
 
     .mk-navbar {
@@ -112,6 +119,14 @@ footer {
 @media (min-width: 992px) {
     
     .mk-navitem {
-        width: 25%
+        width: 25%;
+        height: 100%;
+        font-size: 2.5em;
+    }
+    
+    .mk-navlink {
+        height: 100%;
+        /* centres the link vertically */
+        line-height: 2.5em;
     }
 }

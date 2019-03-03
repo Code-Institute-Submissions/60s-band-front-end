@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Skranji|Spicy+Rice|Indie+Flower|Viga|Luckiest+Guy|Gochi+Hand|Vidaloka');
 
+/*****            NAVBAR                          **********/
+
 .nav-bg {
     background-color: #ffb30f;
 }
@@ -12,8 +14,6 @@
     display: inline-block;
     width: 100%;
 }
-
-
 
 .mk-navitem:hover {
     background-color: #ff0101;
@@ -53,6 +53,17 @@
     justify-content: center;
 }
 
+.monkees-logo {
+
+    height: 100px;
+   
+}
+
+/*****               END NAVBAR                       **********/
+
+
+/*****            FOOTER                          **********/
+
 .social-media-icon {
     margin: 20px;
     color: white;
@@ -85,6 +96,17 @@
     border-color: #ED3833;
 }
 
+.footer-bg {
+    background-color: #ffb30f;
+    min-height: 30px;
+}
+
+/*****               END FOOTER                       **********/
+
+
+
+/*****            INDEX                          **********/
+
 .main-background {
 
     background-image: url("../images/monkees.jpg");
@@ -112,17 +134,40 @@
     background-color: rgba(255, 255, 255, .2);
 }
 
-.footer-bg {
-    background-color: #ffb30f;
-    min-height: 30px;
+/*****               END INDEX                       **********/
+
+
+
+/*****            ABOUT                          **********/
+
+.about-background {
+    background-image: url("");
+    background-color: darkgrey;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 500px;
 }
 
-.monkees-logo {
+/*****               END ABOUT                       **********/
 
-    height: 100px;
-   
 
-}
+
+/*****            MUSIC                          **********/
+
+
+
+/*****               END MUSIC                       **********/
+
+/*****            CONTACT                          **********/
+
+
+
+/*****               END CONTACT                       **********/
+
+/*****            MEDIA QUERIES                          **********/
 
 @media (min-width: 767px) {
     .mk-navitem {
@@ -153,3 +198,31 @@
         line-height: 2.5em;
     }
 }
+
+/*****               END MEDIA QUERIES                       **********/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

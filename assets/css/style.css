@@ -16,7 +16,7 @@ nav {
 
 
 .mk-navitem:hover {
-    background-color: #d30101;
+    background-color: #ff0101;
 }
 
 .mk-navbar {
@@ -35,21 +35,16 @@ nav {
     /* fix for colour not stretching the full width of the container */
     padding: 0;
     display: flex;
-
-
 }
 
 .mk-navlink {
-    color: #d30101;
+    color: #ff0101;
     display: inherit;
     /*same color as the logo image */
 }
 
 .mk-navlink:hover {
     color: lightgrey;
-}
-
-.mk-navlink:hover {
     text-decoration: none;
 }
 
@@ -61,7 +56,7 @@ nav {
 .social-media-icon {
     margin: 20px;
     color: white;
-    background-color: #d30101;
+    background-color: #ff0101;
     border-radius: 50%;
     width: 1.7em;
     height: 1.7em;
@@ -86,8 +81,22 @@ nav {
     background-color: #ED3833;
 }
 
-section {
-    background-color: slategrey;
+.main-background {
+    
+    background-image: url("../images/monkees.jpg");
+    background-color: darkgrey;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.main-header {
+    
+}
+
+.main-video {
+    
 }
 
 footer {
@@ -99,8 +108,7 @@ footer {
 
     height: 100px;
     background-color: lightgrey;
-    mix-blend-mode: multiply;
-    /* eliminates the white background in the image */
+    
 }
 
 @media (min-width: 767px) {

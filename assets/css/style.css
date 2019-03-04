@@ -109,7 +109,10 @@
 
 .main-background {
 
-    background-image: url("../images/monkees.jpg");
+    background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url("../images/monkees.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;
@@ -120,19 +123,16 @@
 }
 
 .home-header {
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Bubblegum Sans', cursive;
     text-transform: uppercase;
     font-weight: bolder;
     text-align: center;
-    color: #ff0101;
+    color: #ffb30f;
+    margin-top: 50px;
 }
 
 .home-video {}
 
-.home-card-bg {
-    background-color: #ffffff;
-    background-color: rgba(255, 255, 255, .2);
-}
 
 /*****               END INDEX                       **********/
 

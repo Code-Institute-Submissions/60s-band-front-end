@@ -154,6 +154,17 @@
     min-height: 500px;
 }
 
+.about-bio-header {
+    color: #ffb30f;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.about-bio-text {
+    color: #ffb30f; 
+    font-family: 'Bubblegum Sans', cursive;
+    font-size: 1.5em;
+}
+
 /*****               END ABOUT                       **********/
 
 

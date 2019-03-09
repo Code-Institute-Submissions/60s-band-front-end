@@ -167,16 +167,35 @@
 
 /*****               END ABOUT                       **********/
 
-section {
-    color: white;
-    /* for testing only */
-}
-
 /*****            MUSIC                          **********/
+
+.music-background {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("../images/red-shirt.jpg");
+    background-color: darkgrey;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 1000px;
+}
 
 /*****               END MUSIC                       **********/
 
 /*****            CONTACT                          **********/
+
+.contact-background {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("../images/director.jpg");
+    background-color: darkgrey;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 1000px;
+}
 
 /*****               END CONTACT                       **********/
 

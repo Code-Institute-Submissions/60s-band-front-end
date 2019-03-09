@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Skranji|Spicy+Rice|Indie+Flower|Viga|Luckiest+Guy|Gochi+Hand|Vidaloka');
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans|Skranji|Spicy+Rice|Indie+Flower|Viga|Noto+Sans|Gochi+Hand|Vidaloka|Mukta');
 
 /*****            NAVBAR                          **********/
 
@@ -119,7 +119,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    min-height: 500px;
+    min-height: 1000px;
 }
 
 .home-header {
@@ -151,17 +151,17 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    min-height: 500px;
+    min-height: 1000px;
 }
 
-.about-bio-header {
+.about-header {
     color: #ffb30f;
     font-family: 'Bubblegum Sans', cursive;
 }
 
-.about-bio-text {
+.about-text {
     color: #ffb30f; 
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Noto Sans', cursive;
     font-size: 1.5em;
 }
 
@@ -169,6 +169,10 @@
 
 section {
     color: white; /* for testing only */
+}
+
+hr {
+    color: red;
 }
 
 /*****            MUSIC                          **********/

@@ -56,11 +56,10 @@
 .monkees-logo {
 
     height: 100px;
-   
+
 }
 
 /*****               END NAVBAR                       **********/
-
 
 /*****            FOOTER                          **********/
 
@@ -103,16 +102,12 @@
 
 /*****               END FOOTER                       **********/
 
-
-
 /*****            INDEX                          **********/
 
 .main-background {
 
-    background-image: linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ), url("../images/monkees.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("../images/monkees.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;
@@ -136,15 +131,11 @@
 
 /*****               END INDEX                       **********/
 
-
-
 /*****            ABOUT                          **********/
 
 .about-background {
-    background-image: linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ),url("../images/profile.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)), url("../images/profile.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;
@@ -157,29 +148,34 @@
 .about-header {
     color: #ffb30f;
     font-family: 'Bubblegum Sans', cursive;
+    padding-top: 2em;
+    padding-bottom: 1em;
+    
+}
+
+.member-header {
+    color: #ffb30f;
+    font-family: 'Bubblegum Sans', cursive;
 }
 
 .about-text {
-    color: #ffb30f; 
+    color: #ffb30f;
     font-family: 'Noto Sans', cursive;
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 
 /*****               END ABOUT                       **********/
 
 section {
-    color: white; /* for testing only */
+    color: white;
+    /* for testing only */
 }
 
 /*****            MUSIC                          **********/
 
-
-
 /*****               END MUSIC                       **********/
 
 /*****            CONTACT                          **********/
-
-
 
 /*****               END CONTACT                       **********/
 
@@ -216,29 +212,3 @@ section {
 }
 
 /*****               END MEDIA QUERIES                       **********/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

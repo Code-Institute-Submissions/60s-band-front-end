@@ -150,7 +150,7 @@
     font-family: 'Spicy Rice', cursive;
     padding-top: 2em;
     padding-bottom: 1em;
-    
+
 }
 
 .member-header {
@@ -200,7 +200,7 @@
 }
 
 .music-title {
-  
+
     color: #ffb30f;
     font-family: 'Bubblegum Sans', cursive;
 
@@ -226,10 +226,30 @@
     min-height: 900px;
 }
 
+.contact-form {
+    padding-bottom: 5em;
+}
+
 .contact-label {
     color: #ffb30f;
     font-family: 'Noto Sans', cursive;
     font-size: 1.4em;
+}
+
+.contact-button {
+    background-color: #ff0101;
+    border: 1px solid #ff0101;
+    color: #ffb30f;
+    font-family: "Noto Sans", cursive;
+    font-size: 1.2em;
+}
+
+.contact-button:hover {
+    background-color: #ffb30f;
+    border: 1px solid #ff0101;
+    color: #ff0101;
+    font-family: "Noto Sans", cursive;
+    font-size: 1.2em;
 }
 
 /*****               END CONTACT                       **********/

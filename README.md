@@ -1,10 +1,10 @@
 # Front End Project
 
-The idea for this project is to create a website for a 1960's music band using only front-end technologies such as CSS and HTML, but excluding JavaScript. The project is intended to be user centric focused
+The idea for this project is to create a website for a 1960's music band using only front-end technologies such as CSS and HTML, but excluding JavaScript. The project is intended to be as user-centric focused as possible.
 
-This is the first of four projects as part of my Code Institute online diploma course.
+This is the first project as part of my [Code Institute](https://codeinstitute.net/) online diploma course.
 
-## UX
+## User Experience Design
 
 ### User Stories
 

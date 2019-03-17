@@ -1,22 +1,41 @@
 # Front End Project
 
-The idea for this project is to create a website for a 1960's music band using only front-end technologies such as CSS and HTML, but excluding JavaScript. The project is intended to be as user-centric focused as possible.
+The idea for this project is to create a website for a 1960's pop band using only front-end technologies such as CSS and HTML, but excluding JavaScript. The project is intended to be as user-centric focused as possible.
 
 This is the first project as part of my [Code Institute](https://codeinstitute.net/) online diploma course.
+
+---
 
 ## User Experience Design
 
 ### User Stories
 
+These are potential actions that users of the website would want to perform. They have to be taken into account when building the website.
+
+* As a fan, I want to hear music clips from band 
+* As a fan I want to be updated on new music the band releases
+* As a fan I want to buy some of the band's music/see what they have
+* As a client I want to see if this band is any good/hear from others
+* As a client I want to book band for a gig
+* As a client I want to contact the band 
+* As a fan I want to know more about the band
+* As a fan I want to see pictures of the band
+* As a fan I want to watch a video of the band
+* As a fan I want want to visit the band's social media
+
 ### Wireframes
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it i
-s that they want to achieve and how your project is the best way to help them achieve these things.
+These are preliminary wireframes made in MS paint in order to get a rough visual idea of what the website will look like.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+![Home Page Wireframe](/assets/wireframes/homepage_wireframe.jpg "Home Page Wireframe")
+![About Page Wireframe](assets/wireframes/about_wireframe.jpg)
+![Music Page Wireframe](assets/wireframes/)
+![Contact Page Wireframe](assets/wireframes/)
+![Responsive Wireframe](assets/wireframes/)
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+
+---
 
 ## Features
 
@@ -33,6 +52,8 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 - Another feature idea
 
+---
+
 ## Technologies Used
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
@@ -40,6 +61,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+---
 
 ## Testing
 
@@ -61,6 +83,8 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+---
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -72,6 +96,7 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
+---
 
 ## Credits
 
@@ -80,7 +105,3 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Media
 - The photos used in this site were obtained from ...
-
-### Acknowledgements
-
-- I received inspiration for this project from X

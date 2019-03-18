@@ -27,10 +27,19 @@ These are potential actions that users of the website would want to perform. The
  
 These are preliminary wireframes made in MS paint in order to get a rough visual idea of what the website will look like.
 
+#### Home Page
 ![Home Page Wireframe](assets/wireframes/homepage_wireframe_2.jpg "Home Page Wireframe")
+
+#### About Page
 ![About Page Wireframe](assets/wireframes/about_wireframe.jpg "About Page Wireframe")
+
+#### Music Page
 ![Music Page Wireframe](assets/wireframes/music_wireframe.jpg "Music Page Wireframe")
+
+#### Contact Page
 ![Contact Page Wireframe](assets/wireframes/contact_wireframe.jpg "Contact Page Wireframe")
+
+#### Mobile Navbar
 ![Responsive Wireframe](assets/wireframes/responsive.jpg "Responsive Wireframe")
 
 ---

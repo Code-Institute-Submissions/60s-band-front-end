@@ -200,8 +200,8 @@
 .spotify-text {
     display: inline;
     color: #ffb30f;
-    font-family: 'Bubblegum Sans', cursive;
-    font-size: 1.5em;
+    font-family: 'Noto Sans', cursive;
+    font-size: 1.3rem;
 }
 
 .spotify-link:hover {
@@ -211,7 +211,7 @@
 .music-title {
 
     color: #ffb30f;
-    font-family: 'Bubblegum Sans', cursive;
+    font-family: 'Spicy Rice', cursive;
 
 }
 

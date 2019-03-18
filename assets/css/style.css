@@ -124,9 +124,18 @@
     text-align: center;
     color: #ffb30f;
     text-shadow: 2px 2px #1e1e1e;
+    padding-top: 10rem;
+    padding-bottom: 2rem;
 }
 
-.home-video {}
+.youtube-video {
+    max-width: 854px;
+    max-height: 480px;
+}
+
+.iframe-parent {
+    max-width: 854px;
+}
 
 
 /*****               END INDEX                       **********/
@@ -287,3 +296,4 @@
 }
 
 /*****               END MEDIA QUERIES                       **********/
+

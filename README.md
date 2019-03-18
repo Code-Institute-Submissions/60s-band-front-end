@@ -37,27 +37,39 @@ These are preliminary wireframes made in MS paint in order to get a rough visual
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+For some/all of your features, you may choose to reference the specific project files that implement them,
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Responsive Navbar
+Social Media Links
+Music Videos
+Audio Player
+Contact Form
+
 
 ### Features Left to Implement
+
 - Another feature idea
+
+animation for guitar logo
+in page store for buying cds
+ticket selling?
+hamburger buttons for mobile/tablet
 
 ---
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+* [Cloud9](https://c9.io/login) - Provided a platform for all actual coding and version control, as well as uploading to Github
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Provides the basic structure needed for the website to function.
+    
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - Allows the basic website to be styled and reorganised; making it more user friendly.
+* [Bootstrap 4](https://getbootstrap.com/) - Allows for special structure in the website to make it as responsive as possible.
+* [Google Fonts](https://fonts.google.com/) - Provides a range of fonts more suited to this particular project.
+* [Font Awesome](https://fontawesome.com/) - Provides iconography which allows the website a more professional feel.
 
 ---
 

@@ -106,8 +106,8 @@
 
 .main-background {
 
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)), url("../images/monkees.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)), url("../images/monkees.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;
@@ -143,8 +143,8 @@
 /*****            ABOUT                          **********/
 
 .about-background {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)), url("../images/profile.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)), url("../images/profile.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;
@@ -179,8 +179,8 @@
 /*****            MUSIC                          **********/
 
 .music-background {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)), url("../images/red-shirt.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)), url("../images/red-shirt.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;
@@ -224,8 +224,8 @@
 /*****            CONTACT                          **********/
 
 .contact-background {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)), url("../images/director.jpg");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)), url("../images/director.jpg");
     background-color: darkgrey;
     height: auto;
     width: 100%;

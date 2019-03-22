@@ -237,8 +237,8 @@
 
 .contact-social-text {
     color: #ffb30f;
-    font-family: 'Noto Sans', cursive;
-    font-size: 1.4em;
+    font-family: 'Spicy Rice', cursive;
+    font-size: 1.6em;
     padding-bottom: 1.5em;
     line-height: 1.6;
 }
@@ -306,15 +306,17 @@
     .mk-navbar {
         flex-direction: row;
     }
-}
-
-@media (min-width: 768px) {
-   
     
     .contact-list {
         display: flex;
         justify-content: space-around;
     }
+}
+
+@media (min-width: 768px) {
+   
+    
+    
 }
 
 @media (min-width: 992px) {
@@ -332,7 +334,7 @@
     }
     
     .contact-social-text {
-        font-size: 1.6em;
+        font-size: 1.8em;
     }
 }
 

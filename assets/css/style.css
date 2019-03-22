@@ -238,7 +238,7 @@
 .contact-social-text {
     color: #ffb30f;
     font-family: 'Noto Sans', cursive;
-    font-size: 1.6em;
+    font-size: 1.4em;
     padding-bottom: 1.5em;
     line-height: 1.6;
 }
@@ -251,6 +251,15 @@
     height: 1.7em;
     line-height: 1.7em;
     text-align: center;
+}
+
+.contact-list {
+    display: block;
+}
+
+.contact-list-element {
+    display: flex;
+    justify-content: center;
 }
 
 .contact-form {
@@ -296,6 +305,11 @@
     .mk-navbar {
         flex-direction: row;
     }
+    
+    .contact-list {
+        display: flex;
+        justify-content: space-around;
+    }
 }
 
 @media (min-width: 992px) {
@@ -310,6 +324,10 @@
         height: 100%;
         /* centres the link vertically */
         line-height: 2.5em;
+    }
+    
+    .contact-social-text {
+        font-size: 1.6em;
     }
 }
 

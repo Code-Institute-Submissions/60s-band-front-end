@@ -292,7 +292,7 @@
 
 /*****            MEDIA QUERIES                          **********/
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
     .mk-navitem {
         height: 50%;
         width: 50%;

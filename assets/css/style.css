@@ -66,7 +66,6 @@
 .social-media-icon {
     margin: 20px;
     color: white;
-    background-color: #ff0101;
     border-radius: 50%;
     width: 1.7em;
     height: 1.7em;
@@ -234,6 +233,16 @@
     background-position: center;
     background-size: cover;
     min-height: 900px;
+}
+
+.social-media-icon-contact {
+    margin: 20px;
+    color: white;
+    border-radius: 50%;
+    width: 1.7em;
+    height: 1.7em;
+    line-height: 1.7em;
+    text-align: center;
 }
 
 .contact-form {

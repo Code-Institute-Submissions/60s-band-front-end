@@ -125,6 +125,7 @@
     text-shadow: 2px 2px #1e1e1e;
     padding-top: 10rem;
     padding-bottom: 2rem;
+    font-size: 3rem;
 }
 
 .youtube-video {
@@ -294,6 +295,10 @@
 
 @media (min-width: 576px) {
     
+    .home-header {
+        font-size: 3.5rem;
+    }
+    
      .mk-navitem {
         height: 50%;
         width: 50%;
@@ -315,7 +320,9 @@
 
 @media (min-width: 768px) {
    
-    
+    .home-header {
+        font-size: 4rem;
+    }
     
 }
 
@@ -335,6 +342,10 @@
     
     .contact-social-text {
         font-size: 1.8em;
+    }
+    
+    .home-header {
+        font-size: 4.5rem;
     }
 }
 

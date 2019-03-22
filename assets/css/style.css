@@ -292,8 +292,9 @@
 
 /*****            MEDIA QUERIES                          **********/
 
-@media (min-width: 768px) {
-    .mk-navitem {
+@media (min-width: 576px) {
+    
+     .mk-navitem {
         height: 50%;
         width: 50%;
     }
@@ -305,6 +306,10 @@
     .mk-navbar {
         flex-direction: row;
     }
+}
+
+@media (min-width: 768px) {
+   
     
     .contact-list {
         display: flex;

@@ -235,6 +235,14 @@
     min-height: 900px;
 }
 
+.contact-social-text {
+    color: #ffb30f;
+    font-family: 'Noto Sans', cursive;
+    font-size: 1.4em;
+    padding-bottom: 1.5em;
+    line-height: 1.6;
+}
+
 .social-media-icon-contact {
     margin: 20px;
     color: white;

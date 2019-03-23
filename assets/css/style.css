@@ -2,47 +2,7 @@
 
 /*****            NAVBAR                          **********/
 
-.mk-navitem {
-    font-family: 'Spicy Rice', cursive;
-    font-size: 2em;
-    text-align: center;
-    text-transform: uppercase;
-    display: inline-block;
-    width: 100%;
-}
 
-.mk-navitem:hover {
-    background-color: #ff0101;
-}
-
-.mk-navbar {
-    display: flex;
-    flex-wrap: wrap;
-    /* will change to row at media breakpoints */
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    padding: 0;
-    margin: 0;
-}
-
-.mk-navbar-div {
-    /* fix for colour not stretching the full width of the container */
-    padding: 0;
-    display: flex;
-}
-
-.mk-navlink {
-    color: #ff0101;
-    display: inherit;
-    /*same color as the logo image */
-}
-
-.mk-navlink:hover {
-    color: #ffb30f;
-    text-decoration: none;
-}
 
 .logo-link {
     display: flex;
@@ -295,19 +255,6 @@
         font-size: 3.5rem;
     }
     
-     .mk-navitem {
-        height: 50%;
-        width: 50%;
-    }
-
-    .mk-navlink {
-        height: 100%;
-    }
-
-    .mk-navbar {
-        flex-direction: row;
-    }
-    
     .contact-list {
         display: flex;
         justify-content: space-around;
@@ -324,18 +271,6 @@
 
 @media (min-width: 992px) {
 
-    .mk-navitem {
-        width: 25%;
-        height: 100%;
-        font-size: 2.5em;
-    }
-
-    .mk-navlink {
-        height: 100%;
-        /* centres the link vertically */
-        line-height: 2.5em;
-    }
-    
     .contact-social-text {
         font-size: 1.8em;
     }

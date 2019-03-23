@@ -19,6 +19,11 @@
     color: #ff0101;
 }
 
+.nav-link-style:hover {
+    color: #ffe200;
+    background-color: #ff0101;
+}
+
 .logo-link {
     display: flex;
     justify-content: center;
@@ -266,6 +271,18 @@
 
 @media (min-width: 576px) {
     
+    .nav-style {
+        height: 50px;
+    }
+    
+    .monkees-logo {
+        height: 50px;
+    }
+    
+    .nav-link-style {
+        font-size: 1.6rem;
+    }
+    
     .home-header {
         font-size: 3.5rem;
     }
@@ -278,6 +295,18 @@
 
 @media (min-width: 768px) {
    
+    .nav-style {
+        height: 60px;
+    }
+    
+    .monkees-logo {
+        height: 60px;
+    }
+    
+    .nav-link-style {
+        font-size: 1.8rem;
+    }
+    
     .home-header {
         font-size: 4rem;
     }

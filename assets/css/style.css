@@ -2,11 +2,16 @@
 
 /*****            NAVBAR                          **********/
 
+.header-bg {
+    background-color: #ffb30f;
+}
+
 .nav-link-style {
     
     font-family: 'Spicy Rice', cursive;
     font-size: 1.8rem;
     text-transform: uppercase;
+    color: #ff0101;
 }
 
 .logo-link {

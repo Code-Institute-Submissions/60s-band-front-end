@@ -3,7 +3,12 @@
 /*****            NAVBAR                          **********/
 
 .header-bg {
-    background-color: #ffb30f;
+    background-color: #ffe200;
+}
+
+.nav-style {
+    height: 60px;
+    /** same height as logo image **/
 }
 
 .nav-link-style {
@@ -61,7 +66,7 @@
 }
 
 .footer-bg {
-    background-color: #ffb30f;
+    background-color: #ffe200;
     min-height: 30px;
 }
 
@@ -87,7 +92,7 @@
     text-transform: uppercase;
     font-weight: bolder;
     text-align: center;
-    color: #ffb30f;
+    color: #ffe200;
     text-shadow: 2px 2px #1e1e1e;
     padding-top: 10rem;
     padding-bottom: 2rem;
@@ -121,7 +126,7 @@
 }
 
 .about-header {
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Spicy Rice', cursive;
     padding-top: 2em;
     padding-bottom: 1em;
@@ -129,12 +134,12 @@
 }
 
 .member-header {
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Spicy Rice', cursive;
 }
 
 .about-text {
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Noto Sans', cursive;
     font-size: 1.4em;
     padding-bottom: 1.5em;
@@ -166,7 +171,7 @@
 
 .spotify-text {
     display: inline;
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Noto Sans', cursive;
     font-size: 1.3rem;
 }
@@ -177,7 +182,7 @@
 
 .music-title {
 
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Spicy Rice', cursive;
 
 }
@@ -203,7 +208,7 @@
 }
 
 .contact-social-text {
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Spicy Rice', cursive;
     font-size: 1.6em;
     line-height: 1.6;
@@ -234,7 +239,7 @@
 }
 
 .contact-label {
-    color: #ffb30f;
+    color: #ffe200;
     font-family: 'Noto Sans', cursive;
     font-size: 1.4em;
 }
@@ -242,13 +247,13 @@
 .contact-button {
     background-color: #ff0101;
     border: 1px solid #ff0101;
-    color: #ffb30f;
+    color: #ffe200;
     font-family: "Noto Sans", cursive;
     font-size: 1.2em;
 }
 
 .contact-button:hover {
-    background-color: #ffb30f;
+    background-color: #ffe200;
     border: 1px solid #ff0101;
     color: #ff0101;
     font-family: "Noto Sans", cursive;

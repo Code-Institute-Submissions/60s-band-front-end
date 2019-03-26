@@ -132,7 +132,9 @@ I manually checked each of the links on every page to see if they opened to the 
 
 I used W3C [HTML Validator](https://validator.w3.org/) and [CSS Validator](http://jigsaw.w3.org/css-validator/) to check if my code was syntactically correct.
 
-The form on the contact page makes use of the 'required' attribute to make sure there is data in the form before it is sent off. 
+The form on the contact page makes use of the 'required' attribute to make sure there is data in the form before it is sent off.
+
+Also used Chrome Devtools 'audit' function to check pages for any outstanding issues. This resulted in me added a few last-minute accessibility features.
 
 ### Legibility
 

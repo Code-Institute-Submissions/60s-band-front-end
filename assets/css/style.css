@@ -270,11 +270,21 @@
 }
 
 .contact-button:hover {
+    
+    border: 1px solid #ffe200;
+    color: #ffe200;
+}
+
+.contact-button:active {
+    
     background-color: #ffe200;
-    border: 1px solid #ff0101;
     color: #ff0101;
-    font-family: "Noto Sans", cursive;
-    font-size: 1.2em;
+    border: 1px solid #ff0101;
+}
+
+.contact-button:focus {
+    
+    box-shadow: none;
 }
 
 /*****               END CONTACT                       **********/

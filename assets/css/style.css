@@ -226,6 +226,12 @@
     text-align: center;
 }
 
+.contact-social-text:hover {
+    
+    color: #ff0101;
+    text-decoration: none;
+}
+
 .social-media-icon-contact {
     margin: 20px;
     color: white;

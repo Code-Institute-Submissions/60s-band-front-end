@@ -70,13 +70,11 @@ These are preliminary wireframes made in MS paint in order to get a rough visual
 
 ## Technologies Used
 
-* [Cloud9](https://c9.io/login) - Provided a platform for all actual coding and git version control, as well as uploading to Github
-
-* [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Provides the basic structure needed for the website to function.
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Provides the basic structure needed for the website to function.
     
-* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - Allows the basic website to be styled and reorganised; making it more user friendly.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3) - Allows the basic website to be styled and reorganised; making it more user friendly.
 
-* [Bootstrap 4](https://getbootstrap.com/) - Allows for special structure in the website to make it as responsive as possible.
+* [Bootstrap](https://getbootstrap.com/) - Allows for special structure in the website to make it as responsive as possible.
 
 * [Google Fonts](https://fonts.google.com/) - Provides a range of fonts more suited to this particular project.
 
@@ -142,15 +140,21 @@ Chrome DevTools has a contrast checker to make sure text is legible against the 
 
 I checked the legibility of text against the navbar background, and found that it was too dark a colour. I used the tool to find a colour which would make the text more easily seen and changed it accordingly.
 
-This was repeated against the backgrond images on the main body of the site. Initially these proved to be too bright, so I found a method of making the background images darker, which enhanced the legibility of the text.
+This was repeated against the background images on the main body of the site. Initially these proved to be too bright, so I found a method of making the background images darker, which enhanced the legibility of the text.
 
 ---
 
 ## Deployment
 
-The code was deployed to GitHub Pages for web hosting. This involved logging into my GitHub account and opening the code for the project. By going to the 'Settings' tab, and scrolling to the Github Pages section, the code was made live by selecting the 'master branch' from the 'source' section.
+The code was deployed to GitHub Pages for web hosting. This involved:
 
-The website can be found at [this URL](https://seakonn.github.io/60s-band-front-end/)
+1. Logging into my GitHub account
+2. Opening the code for the project
+3. Going to the 'Settings' tab
+4. Scrolling to the Github Pages section
+5. Selecting the 'master branch' from the 'source' section.
+
+The live website can be found at [this URL](https://seakonn.github.io/60s-band-front-end/)
 
 ---
 
